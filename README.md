@@ -1,5 +1,4 @@
-# Reposiório de Estudo baseado no curso 
-'Integrando um Backend em Node.js com um Frontend em React para um E-commerce' da DIO ( Front)
+# Reposiório de Estudo baseado no curso 'Integrando um Backend em Node.js com um Frontend em React para um E-commerce' da DIO ( Front)
 
 # Getting Started with Create React App
 
